@@ -9,4 +9,5 @@ mobile-web-sdk
 	//rekmob_keywords = "custom keywords";    		
 				//-->		
 </script>															
-<script src="http://adimg.rekmob.com/js/rekmob.js"></script>```
+<script src="http://adimg.rekmob.com/js/rekmob.js"></script>
+```
