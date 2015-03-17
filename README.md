@@ -13,11 +13,11 @@ mobile-web-sdk
 <script src="http://adimg.rekmob.com/js/rekmob.js"></script>
 ```
 
-Rekmob.com ' da reklam brimi oluştururken reklam birimi tipi olarak 'banner' seçildiğinde : 
+[Rekmob.com](http://rekmob.com)' da reklam brimi oluştururken reklam birimi tipi olarak **banner** seçildiğinde : 
 
 
 ![Banner Ad](http://adimg.rekmob.com/d09bf41544a3365a46c9077ebb5e35c3)
 
-'tamsayfa' seçildiğinde: 
+**tamsayfa** seçildiğinde: 
 
 ![Interstitial Ad](http://rekmob.s3.amazonaws.com/rekmobWiki/web/rekmob-tamsayfa-web.png)
