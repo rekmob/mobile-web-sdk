@@ -20,4 +20,4 @@ mobile-web-sdk
 
 **tamsayfa** seçildiğinde: 
 
-![Interstitial Ad](http://rekmob.s3.amazonaws.com/rekmobWiki/web/rekmob-tamsayfa-web.png)
+![Interstitial Ad](http://rekmob.s3.amazonaws.com/rekmobWiki/web/rekmob-tamsayfa-web.png =360x640)
